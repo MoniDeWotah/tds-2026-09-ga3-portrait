@@ -11,3 +11,7 @@ The photograph is attributed to the International Monetary Fund and is documente
 ## Low-poly Blender variant
 
 `ngozi-lowpoly.glb` is a separate 6,341-triangle, 464,000-byte variant made in Blender 5.1.1. The measured face and its matching skull boundary are preserved; support geometry is simplified. `lowpoly.html` provides an interactive viewer. Front, side and three-quarter views were reviewed locally. Hidden geometry remains estimated; no offline likeness score is claimed. The original model remains available.
+
+## Refined Blender portrait
+
+`ngozi-detailed.glb`: 1,817,892 bytes, 59,876 triangles. A reconstructed cranium, continuous neck and shoulders, finer headwrap folds and hanging tail, smaller earrings, and welded/subdivided facial surface replace the rough low-poly support shapes. `detailed.html` is the matching viewer. All textures are embedded. Hidden surfaces remain estimates from one photograph; offline likeness has not been scored. Earlier models remain unchanged.
