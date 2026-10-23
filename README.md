@@ -15,3 +15,15 @@ The photograph is attributed to the International Monetary Fund and is documente
 ## Refined Blender portrait
 
 `ngozi-detailed.glb`: 1,817,892 bytes, 59,876 triangles. A reconstructed cranium, continuous neck and shoulders, finer headwrap folds and hanging tail, smaller earrings, and welded/subdivided facial surface replace the rough low-poly support shapes. `detailed.html` is the matching viewer. All textures are embedded. Hidden surfaces remain estimates from one photograph; offline likeness has not been scored. Earlier models remain unchanged.
+
+
+## Multi-angle revision — 23 October 2026
+
+`ngozi-multiangle.glb` is the current revision; `multiangle.html` provides a rotatable viewer. The older files remain available. The revised model has a continuous head, fuller jaw and neck, complete side-facing ears, glasses temples, hair and a wrap that extends around the rear of the head. Eight-angle review: `multiangle-preview.jpg`.
+
+Geometry references (not embedded textures):
+- https://commons.wikimedia.org/wiki/File:Ngozi_Okonjo-Iweala_-_2020_-_01.jpg
+- https://commons.wikimedia.org/wiki/File:Ngozi_Okonjo-Iweala_-_2020_-_11.jpg
+- https://commons.wikimedia.org/wiki/File:Ngozi_Okonjo-Iweala.jpg
+
+The embedded texture remains the assigned public-domain IMF portrait. Side anatomy is estimated from reference photographs, not calibrated photogrammetry. Likeness has not received an official offline grade.
